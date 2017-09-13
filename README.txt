@@ -1,6 +1,7 @@
-1º só utilize o arquivo "enviar.php"
-2º os outros arquivos não se mexe nada
-3º dentro do form do formulário para envio de email coloque action="enviar.php"
+1º só edite/mexa no arquivo "enviar.php"
+2º os arquivos devem estar na mesma pasta/nível
+3º os outros arquivos não se mexe em nada
+4º dentro do form do formulário para envio de email coloque action="enviar.php"
 	ex:
 		<form method="POST" action="enviar.php">
                     <input required type="text" name="mensagem_nome">
