@@ -7,6 +7,7 @@
     require_once("PHPMailerAutoload.php");
 
     $mail = new PHPMailer();
+    $mail->CharSet = 'UTF-8';
     $mail->isSMTP();
     $mail->Host = 'smtp.live.com'; // Define o email que se utilizara (live -> hotmail) para saber de outros procurar na internet
     $mail->Port = 587; // Define a porta do email que se utilizara (587 -> hotmail) para saber de outros procurar na internet
