@@ -10,6 +10,12 @@ Desenvolvimento PHP para envio de e-mail direto do seu site, incrivelmente simpl
 
 ## Como utlizar
 1º só edite/mexa no arquivo "enviar.php"
+
+&nbsp;
 2º os arquivos devem esta na mesma pasta/nível
+
+&nbsp;
 3º os outros arquivos não se mexe em nada
+
+&nbsp;
 4º dentro do form do formulário para envio de email coloque action="enviar.php"
