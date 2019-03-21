@@ -6,9 +6,10 @@ Desenvolvimento PHP para envio de e-mail direto do seu site, incrivelmente simpl
 
 ## Versão disponível
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="150" height="85" />](http://www.php.net/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100" height="100" />](http://www.php.net/)
 
 ## Como utlizar
+
 &nbsp;
 1º só edite/mexa no arquivo "enviar.php"
 
@@ -22,4 +23,5 @@ Desenvolvimento PHP para envio de e-mail direto do seu site, incrivelmente simpl
 4º dentro do form do formulário para envio de email coloque action="enviar.php"
 
 ## Observação
+
 Dentro do arquivo "enviar.php" há mais instruções de como os campos devem ser preenchidos
