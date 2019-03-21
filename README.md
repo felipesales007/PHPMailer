@@ -24,4 +24,4 @@ Desenvolvimento PHP para envio de e-mail direto do seu site, incrivelmente simpl
 
 ## Observação
 
-Dentro do arquivo "enviar.php" há mais instruções de como os campos devem ser preenchidos
+Dentro do arquivo "enviar.php" há mais instruções de como os campos devem ser preenchidos.
